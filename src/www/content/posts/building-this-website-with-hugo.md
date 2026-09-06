@@ -1,6 +1,6 @@
 +++
 title = 'Rebuilding this website with Hugo'
-date = '2026-08-30'
+date = '2026-09-06'
 draft = false
 description = 'Why I chose Hugo for this site, the decisions behind its shape, and how the GitHub Actions pipeline takes it from a commit to a deployed website.'
 tags = ['hugo', 'web development', 'GitHub Actions']
