@@ -15,7 +15,7 @@
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",
     "@playwright/test": "^1.63.0",
-    "html-validate": "^11.13.0",
+    "html-validate": "^11.14.0",
     "hugo-bin": "^0.162.0",
     "lighthouse": "^13.4.1"
   },
